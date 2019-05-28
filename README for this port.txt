@@ -1,4 +1,4 @@
-Caprice RPI2 V1.3c - Release - Adapted/ported by KaosOverride 2017
+Caprice RPI2 V1.3d - Release - Adapted/ported by KaosOverride 2017
 (Caprice32 4.1.0 for Raspberry PI)
 
 Caprice32 - Amstrad CPC Emulator
