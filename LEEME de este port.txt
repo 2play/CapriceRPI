@@ -1,4 +1,4 @@
-CapriceRPI V1.3b - Release - Adapted/ported by KaosOverride 2017
+CapriceRPI V1.3d - Release - Adapted/ported by KaosOverride 2017
 (Caprice32 4.1.0 for Raspberry PI)
 
 Caprice32 - Amstrad CPC Emulator
@@ -138,7 +138,7 @@ V1.3d Soporte Parados
 V1.3c Command Line Fun Release Vol 2
 ====
 -Soporte de MAS nuevas opciones en linea de comandos.
--Añadido el modelo de CPC 464 + Floppy Disc Drive
+-AÃ±adido el modelo de CPC 464 + Floppy Disc Drive
 
 V1.3b Command Line Fun Release
 ====
@@ -192,7 +192,7 @@ V0.2 W.I.P 2
 
 V0.1 W.I.P 1
 ====
--Teclado virtual operativo. �Programa BASIC desde tu joystick!!!!
+-Teclado virtual operativo. ¡Programa BASIC desde tu joystick!!!!
 -Soporte de autoejecucion, parcial en discos, completo en cinta.
 -Nueva portada RPI2 reemplazando la de GP2x
 
